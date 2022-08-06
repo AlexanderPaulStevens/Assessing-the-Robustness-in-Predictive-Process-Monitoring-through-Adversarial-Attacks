@@ -2,7 +2,10 @@
 
 Complementary code to reproduce the work of "Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks"
 
-[Methodology_rev.pdf](https://github.com/AlexanderPaulStevens/Assessing-the-Robustness-in-Predictive-Process-Monitoring-through-Adversarial-Attacks/files/9275151/Methodology_rev.pdf)
+
+![Methodology_rev-1](https://user-images.githubusercontent.com/75080516/183251884-2b80c28a-fafb-4c7a-929c-59decbae9bbb.png)
+_Figure: The robustness assessment framework that describes the different adversarial attacks, the method of application and how the evaluation is performed.
+The notation A* indicates that both attack A1 and A2 can be used._
 
 An overview of the files:
 
