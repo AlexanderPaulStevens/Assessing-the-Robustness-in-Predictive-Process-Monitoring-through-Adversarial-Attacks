@@ -1,6 +1,6 @@
 # Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks
 
-Complementary code to reproduce the work of " Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks"
+Complementary code to reproduce the work of "Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks"
 
 An overview of the files:
 
