@@ -33,4 +33,4 @@ We would like to thank the authors for the high quality code that allowed to fas
 
 We acknowledgde the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations.
 
-Finally, the folders contain additional figures and plots that have (not) been used in the paper.
+Finally, the folder PDF contains the high-resolution figures (PDF format) that have been used in the paper.
