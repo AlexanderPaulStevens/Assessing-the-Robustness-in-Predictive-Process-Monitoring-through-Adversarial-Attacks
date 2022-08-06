@@ -38,6 +38,6 @@ We would like to thank the authors for the high quality code that allowed to fas
 *Long short-term memory neural networks (LSTM) and Convolutional Neural Network( CNN)*
 - Experiment_ML_Attack_Test (GC).py
 
-We acknowledgde the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations.
+We acknowledgde the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations. In this paper, they use the attributes resource, activity and time and the two former categorical attributes are one-hot encoded (OHE). We have extended this work by allowing different case and event attributes. Here, the categorical attributes are OHE and the dynamic attributes are inserted into an LSTM (to learn the dynamic behaviour). 
 
 Finally, the folder PDF contains the high-resolution figures (PDF format) that have been used in the paper.
