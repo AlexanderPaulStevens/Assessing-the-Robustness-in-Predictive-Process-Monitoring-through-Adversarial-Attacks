@@ -10,7 +10,7 @@ An overview of the folders and files is given below. Note that the hyperoptimali
 
 ### labeled_logs_csv_processed
 
-This folder contains cleaned and preprocessed event logs that are made available by this GitHub repository: [Benchmark for outcome-oriented predictive process monitoring](https://github.com/irhete/predictive-monitoring-benchmark). They provide 22 event logs, and we have selected 13 of them. The authors of this work an GitHub repository provide a [Google drive link](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR) to download these event logs.
+This folder contains cleaned and preprocessed event logs that are made available by this GitHub repository: [Benchmark for outcome-oriented predictive process monitoring](https://github.com/irhete/predictive-monitoring-benchmark). They provide 22 event logs, and we have selected 13 of them. The authors' GitHub repository provide a [Google drive link](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR) to download these event logs.
 
 ### Preprocessing files 
 
