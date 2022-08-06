@@ -2,6 +2,8 @@
 
 Complementary code to reproduce the work of "Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks"
 
+[Methodology_rev.pdf](https://github.com/AlexanderPaulStevens/Assessing-the-Robustness-in-Predictive-Process-Monitoring-through-Adversarial-Attacks/files/9275151/Methodology_rev.pdf)
+
 An overview of the files:
 
 ### Preprocessing files 
