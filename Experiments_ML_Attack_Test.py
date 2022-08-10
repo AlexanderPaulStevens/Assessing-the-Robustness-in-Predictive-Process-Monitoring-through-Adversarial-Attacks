@@ -333,17 +333,17 @@ for dataset_name in datasets:
                 preds_all3.extend(pred3)
 
             elif cls_method == "RF":
-                cls1 = RandomForestClassifier(n_estimators=500,
+                cls1 = RandomForestClassifier(n_estimators=args['max_features'],
                                               n_jobs=-1,
                                               random_state=random_state)
                 cls1.fit(dt_train_named, train_y)
 
-                cls2 = RandomForestClassifier(n_estimators=500,
+                cls2 = RandomForestClassifier(n_estimators=args['max_features'],
                                               n_jobs=-1,
                                               random_state=random_state)
                 cls2.fit(dt_train_named2, train_y)
 
-                cls3 = RandomForestClassifier(n_estimators=500,
+                cls3 = RandomForestClassifier(n_estimators=args['max_features'],
                                               n_jobs=-1,
                                               random_state=random_state)
                 cls3.fit(dt_train_named3, train_y)
