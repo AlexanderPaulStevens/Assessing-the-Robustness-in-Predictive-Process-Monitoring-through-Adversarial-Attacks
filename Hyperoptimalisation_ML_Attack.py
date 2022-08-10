@@ -113,8 +113,7 @@ def create_and_evaluate_model(args):
             pred = cls.predict_proba(dt_test_named)[:, preds_pos_label_idx]
             preds_all.extend(pred)
         elif cls_method == "RF":
-            cls = RandomForestClassifier(n_estimators=500,
-                                         max_features=args['max_features'],
+            cls = RandomForestClassifier(max_features=args['max_features'],
                                          n_jobs=-1,
                                          random_state=random_state)
             cls.fit(dt_train_named, train_y)
