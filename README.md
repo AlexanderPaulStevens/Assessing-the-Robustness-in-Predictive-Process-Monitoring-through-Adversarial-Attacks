@@ -51,7 +51,7 @@ The folder PDF contains the high-resolution figures (PDF format) that have been 
 
 ## Acknowledgements
 
-First, we would like to thank the authors of [Outcome-Oriented Predictive Process Monitoring: Review and Benchmark]([https://github.com/irhete/predictive-monitoring-benchmark](https://arxiv.org/pdf/1707.06766v4.pdf) for their interesting work and open source access to their preprocessed event logs and code. 
+First, we would like to thank the authors of [Outcome-Oriented Predictive Process Monitoring: Review and Benchmark](https://arxiv.org/pdf/1707.06766v4.pdf) for their interesting work and open source access to their preprocessed event logs and code. 
 
 Next, we acknowledge the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations. In this paper, they use the attributes resource, activity and time and the two former categorical attributes are one-hot encoded (OHE). We have extended this work by allowing different case and event attributes. Here, the categorical attributes are OHE and the dynamic attributes are inserted into an LSTM (to learn the dynamic behaviour). 
 
