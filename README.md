@@ -6,7 +6,7 @@ Complementary code to reproduce the work of "Assessing the Robustness in Predict
 ![Methodology_rev-1](https://user-images.githubusercontent.com/75080516/183251884-2b80c28a-fafb-4c7a-929c-59decbae9bbb.png)
 _This figure contains the robustness assessment framework as introduced in the paper. The framework describes the different adversarial attacks, the method of application and how the evaluation is performed._
 
-An overview of the folders and files is given below. Note that the hyperoptimalisation and experiments for the deep learning models are performed with the use of [Google Colab](https://colab.research.google.com/?utm_source=scs-index). The authors are thankful for this easy-to-use jupyter notebook that provides computing on a GPU.
+An overview of the folders and files is given below. 
 
 ## Files
 
@@ -51,6 +51,10 @@ The folder PDF contains the high-resolution figures (PDF format) that have been 
 
 ## Acknowledgements
 
-We acknowledgde the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations. In this paper, they use the attributes resource, activity and time and the two former categorical attributes are one-hot encoded (OHE). We have extended this work by allowing different case and event attributes. Here, the categorical attributes are OHE and the dynamic attributes are inserted into an LSTM (to learn the dynamic behaviour). 
+First, we would like to thank the authors of [Outcome-Oriented Predictive Process Monitoring: Review and Benchmark]([https://github.com/irhete/predictive-monitoring-benchmark](https://arxiv.org/pdf/1707.06766v4.pdf) for their interesting work and open source access to their preprocessed event logs and code. 
+
+Next, we acknowledge the work provided by [Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms](https://github.com/ZhipengHe/Shared-and-Specialised-Attention-based-Interpretable-Models) for their attention-based bidirectional LSTM architecture to create the long short-term neural networks with attention layers visualisations. In this paper, they use the attributes resource, activity and time and the two former categorical attributes are one-hot encoded (OHE). We have extended this work by allowing different case and event attributes. Here, the categorical attributes are OHE and the dynamic attributes are inserted into an LSTM (to learn the dynamic behaviour). 
+
+Secondly, the hyperoptimalisation and experiments for the deep learning models are performed with the use of [Google Colab](https://colab.research.google.com/?utm_source=scs-index). The authors are thankful for this easy-to-use jupyter notebook that provides computing on a GPU.
 
 
