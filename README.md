@@ -8,15 +8,6 @@ _This figure contains the robustness assessment framework as introduced in the p
 
 An overview of the folders and files is given below. Note that the hyperoptimalisation and experiments for the deep learning models are performed with the use of [Google Colab](https://colab.research.google.com/?utm_source=scs-index). The authors are thankful for this easy-to-use jupyter notebook that provides computing on a GPU.
 
-## Folders
-
-### labeled_logs_csv_processed
-
-This folder contains cleaned and preprocessed event logs that are made available by this GitHub repository: [Benchmark for outcome-oriented predictive process monitoring](https://github.com/irhete/predictive-monitoring-benchmark). They provide 22 event logs, and we have selected 13 of them. The authors' GitHub repository provide a [Google drive link](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR) to download these event logs
-
-### PDF
-The folder PDF contains the high-resolution figures (PDF format) that have been used in the paper
-
 ## Files
 
 ### Preprocessing files 
@@ -48,6 +39,15 @@ We would like to thank the authors for the high quality code that allowed to fas
 ### Experimental_evaluation.ipynb
 
 This jupyter notebook file contains the code to obtain the plots as displayed in the paper (+ an additional plot to show the differences in label flips, which was omitted from the paper).
+
+## Folders
+
+### labeled_logs_csv_processed
+
+This folder contains cleaned and preprocessed event logs that are made available by this GitHub repository: [Benchmark for outcome-oriented predictive process monitoring](https://github.com/irhete/predictive-monitoring-benchmark). They provide 22 event logs, and we have selected 13 of them. The authors' GitHub repository provide a [Google drive link](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR) to download these event logs
+
+### PDF
+The folder PDF contains the high-resolution figures (PDF format) that have been used in the paper
 
 ## Acknowledgements
 
