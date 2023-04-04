@@ -23,17 +23,17 @@ We would like to thank the authors for the high quality code that allowed to fas
 - Hyperoptimalisation_DL_Attack (GC).ipynb
 
 ### Adversarial Training Machine Learning Models and Deep Learning Models
-*Logistic Regression (LR), Logit Leaf Model (LLM), Generalized Logistic Rule Regression (GLRM), Random Forest (RF) and XGBoost (XGB)*
+*Logistic Regression (LR) and Random Forest (RF)*
 - Experiment_ML_Attack.py
-*Long short-term memory neural networks (LSTM) and Convolutional Neural Network( CNN)*
+*Long short-term memory neural networks (LSTM)*
 - Experiment_DL_Attack (GC).py
 
 ### Adversarial Examples Machine Learning Models Deep Learning Models 
-*Logistic Regression (LR), Logit Leaf Model (LLM), Generalized Logistic Rule Regression (GLRM), Random Forest (RF) and XGBoost (XGB)*
+*Logistic Regression (LR) and Random Forest (RF)*
 - Experiment_ML_Attack_Test.py
 
 ### Adversarial Examples Machine Learning Models
-*Long short-term memory neural networks (LSTM) and Convolutional Neural Network( CNN)*
+*Long short-term memory neural networks (LSTM)*
 - Experiment_ML_Attack_Test (GC).py
 
 ### Experimental_evaluation.ipynb
